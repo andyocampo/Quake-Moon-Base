@@ -11,3 +11,5 @@
 # if the files to be tracked are in subdirectories
 !*QuakeDev/id1/maps/MoonBase.map
 !*QuakeDev/id1/maps/TestLevel.map
+!*QuakeDev/wads/prototype_1_2.wad
+!*QuakeDev/wads/moonbase.wad
