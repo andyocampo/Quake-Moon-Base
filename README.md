@@ -2,6 +2,8 @@
 
 The year is 2046, 15 years after humans first set base on the Moon to study lifeforms that were discovered deep in the surface. You wake up to find that everyone of your crewmates has disappeared and all you find left are invaders infiltrating your research!
 
+To install, extract the moon_base_mod.zip file into your modern Quake Engine directory.
+
 See my development and process in the [Wiki!](https://github.com/andyocampo/Quake-Moon-Base/wiki)
 
 ![Screen1](https://media.discordapp.net/attachments/781063242042572810/790832679436156928/unknown.png)
