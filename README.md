@@ -4,7 +4,7 @@ The year is 2046, 15 years after humans first set base on the Moon to study life
 
 To install, extract the moon_base_mod.zip file into your modern Quake Engine directory.
 
-See my development and process in the [Wiki!](https://github.com/andyocampo/Quake-Moon-Base/wiki)
+See my development and process in the [Wiki!](https://github.com/andyocampo/Quake-Moon-Base/wiki/Process-Journal)
 
 ![Screen1](https://media.discordapp.net/attachments/781063242042572810/790832679436156928/unknown.png)
 ![Screen2](https://media.discordapp.net/attachments/781063242042572810/790831358120296468/spasm0006.png?width=720&height=405)
